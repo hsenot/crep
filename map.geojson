@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Solar PV",
+        "capacity_kw": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98327314853665,
+          -37.76557095226412
+        ]
+      }
+    }
+  ]
+}
